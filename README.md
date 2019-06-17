@@ -34,4 +34,4 @@ However you don't need to have designed a study to contribute. You can also comm
 
 ## Rules for contributing
 
-We support the XXX _open contribution protocol_ XXX
+See the [contributing](CONTRIBUTING.md) guidelines.
