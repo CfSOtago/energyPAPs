@@ -7,7 +7,7 @@ If you want to refer to this PAP please use:
  * Anderson, Ben, David Eyers, Rebecca Ford, Diana Giraldo Ocampo, Rana Peniamina, Janet Stephenson, Kiti Suomalainen, Lara Wilcocks, and Michael Jack. 2018. [‘New Zealand GREEN Grid Household Electricity Demand Study 2014-2018’](https://doi.org/10.5255/UKDA-SN-853334), September. https://doi.org/10.5255/UKDA-SN-853334.
  
 # Geographical area
-Regions of Taranaki and Howke's Bay (New Zealand)
+Regions of Taranaki and Hawke's Bay (New Zealand)
 
 # Date of data colletion
 April 2014 - June 2018

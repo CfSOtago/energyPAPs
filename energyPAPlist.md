@@ -1,6 +1,6 @@
 # The big list of energy ‘pre- analysis plans’ (PAPs)
 
-We could lsit in all sorts of ways. Maybe chronological is best?
+We could list in all sorts of ways. Maybe chronological is best?
 
 # 1970 - 1980
 
