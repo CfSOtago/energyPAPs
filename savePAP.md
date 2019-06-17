@@ -22,7 +22,7 @@ To test a series of energy efficiency and demand response interventions using a 
 Randomised control trials
 
 ## Sample recruitment
-Stratified random address-based sampling using an initial letter and follow-up house call to recruit household to sample and install electricity monitor.
+Stratified random address-based sampling to provide an address list using English IMD deciles for OAs as a strata. Random selection of Census OAs within each IMD strata, random selection of ~30 addresses within OAs. Addresses sent an initial letter and follow-up house call to recruit household to sample and install electricity monitor.
 
 ## Research methods
  * 15 min whole-household kWh consumption data
