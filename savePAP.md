@@ -22,14 +22,16 @@ To test a series of energy efficiency and demand response interventions using a 
 Randomised control trials
 
 ## Sample recruitment
-Stratified random address-based sampling using an initial letter and follow-up house call to recruit household to sample and install electricity monitor.
+Stratified random address-based sampling to provide an address list using English IMD deciles for OAs as a strata. Random selection of Census OAs within each IMD strata, random selection of ~30 addresses within OAs. Addresses sent an initial letter and follow-up house call to recruit household to sample and install electricity monitor.
 
 ## Research methods
  * 15 min whole-household kWh consumption data
  * repeated household surveys and time-use diaries to co-incide with trial interventions
 
 ## Sample size and justification
-4,000 (1,000 for a control group and 1,000 each for 3 subsequent intervention groups). Sample size based on statistical power analysis using the Irish CER Demand Response Trial dataset to test the samples required to detect >= 6% evening peak period (16:00 - 20:00) consumption reduction. ~10% over-recruitment in each sample to allow for attrition.
+4,000 (1,000 for a control group and 1,000 each for 3 subsequent intervention groups). Sample size based on statistical power analysis using the Irish CER Demand Response Trial dataset to test the samples required to detect >= 6% evening peak period (16:00 - 20:00) consumption reduction. 6% selected based on literature review of similar studies.
+
+~10% over-recruitment in each sample to allow for attrition.
 
 ## Allocation to study groups (if any)
 Pre-recruitment random allocation of selected addresses to control or intervention groups.
