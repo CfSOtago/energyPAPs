@@ -1,5 +1,7 @@
 # Study title: New Zealand GREEN Grid Household Electricity Demand Study
 
+Part of the "[Renewable Energy and the Smart Grid](https://www.otago.ac.nz/centre-sustainability/research/energy/otago050285.html)" project.
+
 # Citation
 
 If you want to refer to this PAP please use:
@@ -53,13 +55,13 @@ See:
  * Public github repo: https://cfsotago.github.io/GREENGridData/
 
 # Data release
-All survey and electricity power data for the period April 2015 - April 2016 which had the [highest number of concurrent households](https://cfsotago.github.io/GREENGridData/overviewReport_v1.0.html) has be deposited with the UK Data Service:
+All survey and electricity power data for the period April 2015 - April 2016 which had the [highest number of concurrent households](https://cfsotago.github.io/GREENGridData/overviewReport_v1.0.html) has been deposited with the UK Data Service:
 
  * Study number: UKDA-SN-853334
  * DOI: https://doi.org/10.5255/UKDA-SN-853334
 
 # Research partners
-University of Otago
+[Centre for Sustainability](https://www.otago.ac.nz/centre-sustainability/research/energy/otago050285.html) at the University of Otago
 
 # Funding source
 New Zealand Ministry of Business, Innovation and Employment 
