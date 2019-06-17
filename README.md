@@ -4,7 +4,7 @@ You probably came for -> [The big list of energy study PAPs](energyPAPlist.md).
 
 Inspired by:
 
- * Huebner, Gesche M., Moira L. Nicolson, Michael J. Fell, Harry Kennard, Simon Elam, Clare Hanmer, Charlotte Johnson, and David Shipworth. 2017. ‘Are We Heading towards a Replicability Crisis in Energy Efficiency Research? A Toolkit for Improving the Quality, Transparency and Replicability of Energy Efficiency Impact Evaluations’. Proceedings of the European Council for an Energy Efficient Economy ECEEE;
+ * Huebner, Gesche M., Moira L. Nicolson, Michael J. Fell, Harry Kennard, Simon Elam, Clare Hanmer, Charlotte Johnson, and David Shipworth. 2017. [‘Are We Heading towards a Replicability Crisis in Energy Efficiency Research? A Toolkit for Improving the Quality, Transparency and Replicability of Energy Efficiency Impact Evaluations’](https://www.researchgate.net/profile/Michael_Fell/publication/320559492_Are_we_heading_towards_a_replicability_crisis_in_energy_efficiency_research_A_toolkit_for_improving_the_quality_transparency_and_replicability_of_energy_efficiency_impact_evaluations/links/59edccae4585158fe53405be/Are-we-heading-towards-a-replicability-crisis-in-energy-efficiency-research-A-toolkit-for-improving-the-quality-transparency-and-replicability-of-energy-efficiency-impact-evaluations.pdf). Proceedings of the European Council for an Energy Efficient Economy ECEEE;
  * Sovacool, Benjamin K., Jonn Axsen, and Steve Sorrell. 2018. [‘Promoting Novelty, Rigor, and Style in Energy Social Science: Towards Codes of Practice for Appropriate Methods and Research Design’](https://doi.org/10.1016/j.erss.2018.07.007). Energy Research & Social Science, October.
 
 ## What are we trying to do?
