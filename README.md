@@ -28,7 +28,7 @@ If you have designed and run an energy study please:
 
 We will then quickly review your addition for completeness and add it to the repo. We may also ask for further details...
 
-If all of this is way beyond your github comfort zone then do not panic, ask a friendly grad student. Or you cuuld simply edit the repo directly online. This will require a [github account](https://help.github.com/en/articles/signing-up-for-a-new-github-account) as it goes through the same edit -> commit -> pull request process.
+If all of this is way beyond your github comfort zone then do not panic, ask a friendly grad student. Or you could simply edit the repo directly online. This will require a [github account](https://help.github.com/en/articles/signing-up-for-a-new-github-account) as it goes through the same edit -> commit -> pull request process.
 
 However you don't need to have designed a study to contribute. You can also comment, or raise an [issue](https://github.com/CfSOtago/energyPAPs/issues) on an existing entry - to ask for further details for example.
 
