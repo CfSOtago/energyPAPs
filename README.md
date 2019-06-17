@@ -9,7 +9,7 @@ Inspired by:
 
 ## What are we trying to do?
 
-We are trying to provide an open space for the documentation and publication of _analysis plans which outline what the key outcome measures are and a step-by-step outline of how the analysis will be conducted, including what covariates and statistical tests will be employed to estimate treatment effects, how missing data will be handled and how key variables will be coded_. 
+We are trying to provide an open space for the documentation and publication of _"analysis plans which outline what the key outcome measures are and a step-by-step outline of how the analysis will be conducted, including what covariates and statistical tests will be employed to estimate treatment effects, how missing data will be handled and how key variables will be coded"_ (Huebner et al, 2017). 
 
 Huebner et al (and other authors) refer to these as pre-analysis plans, in the health sciences they are often termed protocols. Either way they are crucial to enabling replicability of research findings, guarding against suppression of 'null' results and preventing p-value fishing. On this and other evil practices see [Sovacool et al](https://doi.org/10.1016/j.erss.2018.07.007).
 
@@ -17,19 +17,20 @@ Whilst the publication of 'protocols' as peer-reviewed papers is common practice
 
 ## How to contribute
 
-If you have designed and run an energy study please fork the repo and:
+If you have designed and run an energy study please:
 
+ * [fork](https://help.github.com/en/articles/fork-a-repo) the repo;
  * use the [PAP template](templatePAP.md) to record relevant details about your study. This is not a form, it's a template. Use it flexibly but informatively. You might find some of the [existing PAPs](energyPAPlist.md) can help with hints, phrases and methods. If you have already completed study documentation for a data archive (e,g, for the UK Data Service) then just re-use it with any necessary additions. We expect the template to evolve over time;
  * save your entry as a new <stydy name>PAP.md file
  * add an entry to [the big list of studies](energyPAPlist.md)
- * git commit your changes
- * send us a git pull request
+ * [git commit](https://help.github.com/en/desktop/contributing-to-projects/committing-and-reviewing-changes-to-your-project) your changes
+ * send us a [git pull](https://help.github.com/en/articles/about-pull-requests) request
 
 We will then quickly review your addition for completeness and add it to the repo. We may also ask for further details...
 
-If all of this is way beyond your github comfort zone then do not panic, ask a friendly grad student. Or you cuuld simply edit the repo directly online. This will require a github account as it goes through the same edit -> commit -> pull request process. XX _check_ XX
+If all of this is way beyond your github comfort zone then do not panic, ask a friendly grad student. Or you cuuld simply edit the repo directly online. This will require a [github account](https://help.github.com/en/articles/signing-up-for-a-new-github-account) as it goes through the same edit -> commit -> pull request process.
 
-However you don't need to have designed a study to contribute. You can also comment, or raise an issue on an exsiting entry - to ask for further details for example.
+However you don't need to have designed a study to contribute. You can also comment, or raise an [issue](https://github.com/CfSOtago/energyPAPs/issues) on an existing entry - to ask for further details for example.
 
 ## Rules for contributing
 
