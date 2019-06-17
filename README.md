@@ -1,4 +1,4 @@
-# Energy ‘pre- analysis plans’ (PAPs)
+# Energy ‘Pre-Analysis Plans’ (PAPs)
 
 You probably came for -> [The big list of energy study PAPs](energyPAPlist.md).
 
