@@ -1,5 +1,7 @@
 # Study title: New Zealand GREEN Grid Household Electricity Demand Study
 
+Part of the "[Renewable Energy and the Smart Grid](https://www.otago.ac.nz/centre-sustainability/research/energy/otago050285.html)" project.
+
 # Citation
 
 If you want to refer to this PAP please use:
@@ -59,7 +61,7 @@ All survey and electricity power data for the period April 2015 - April 2016 whi
  * DOI: https://doi.org/10.5255/UKDA-SN-853334
 
 # Research partners
-University of Otago
+[Centre for Sustainability](https://www.otago.ac.nz/centre-sustainability/research/energy/otago050285.html) at the University of Otago
 
 # Funding source
 New Zealand Ministry of Business, Innovation and Employment 
